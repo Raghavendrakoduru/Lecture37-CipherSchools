@@ -1,0 +1,6 @@
+#inlude<iostream>
+usingnamespace std;
+int main()
+{
+cout<<"All is well"<<endl;
+}
